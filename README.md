@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/QX755FN.jpg">
 
-I'm Vagner, I am a :brazil: brazilian Software Engineer living in :ireland: Ireland since 2019. You can find me on [![Twitter][1.0]][1],  and [![LinkedIn][2.0]][2].
+I'm Vagner, I am a brazilian Software Engineer living in Ireland since 2019. You can find me on [![Twitter][1.0]][1],  and [![LinkedIn][2.0]][2].
 
 
 
