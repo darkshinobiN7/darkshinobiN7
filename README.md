@@ -1,15 +1,22 @@
-### Hi there 👋
+👋 Hey there!
 
-<img src="https://i.imgur.com/QX755FN.jpg">
+I'm DarkShinobiN7 — tinkerer, curious mind, and coding enthusiast on a journey to build cool stuff and learn along the way.
+This space is my digital sandbox: a place for experiments, practice, and the occasional "aha!" moment.
 
-I'm Vagner, I am a brazilian Software Engineer living in Ireland since 2019. You can find me on [![Twitter][1.0]][1],  and [![LinkedIn][2.0]][2].
+⚒️ Currently exploring:
 
+    🕸️ Web development (JavaScript, React, Node, etc.)
 
+    🧠 Problem-solving through code (mostly small projects and exercises)
 
-[1.0]: https://icons.iconarchive.com/icons/ampeross/smooth/24/Twitter-icon.png
+    🛠️ Open-source code, tutorials, and learning by doing
 
-[1]: https://twitter.com/darkshinobin7
+🧭 I use GitHub to:
 
-[2.0]: https://icons.iconarchive.com/icons/limav/flat-gradient-social/24/Linkedin-icon.png
+    Keep track of my learning progress
 
-[2]: https://www.linkedin.com/in/vagneramorim100/
+    Share little tools and experiments
+
+    Practice good habits (like writing clean code and committing regularly)
+
+💬 Always open to feedback, ideas, or just a good chat about coding, creativity, or games.
